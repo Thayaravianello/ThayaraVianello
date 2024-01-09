@@ -29,10 +29,6 @@ During my time at the university, I had exposure to the C and C++ programming la
 In addition to my proficiency in the programming languages mentioned above, I have experience with Python and a good command of HTML, CSS, as well as some knowledge of JavaScript and TypeScript.
 </details>
 
-<div>
-<img align="right" height="150" src="https://imgflip.com/gif/8bsik7"  />
-</div>
-
 
 ###
 
