@@ -74,7 +74,7 @@ In addition to my proficiency in the programming languages mentioned above, I ha
 
 <div align="left">
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=317gowiuxt5idwtnx3vavcw3yhzi"  />
-<img align="right" height="150" src="https://github.com/Thayaravianello/ThayaraVianello/blob/main/Screenshot_10.png"  />
+<img align="right" height="200" src="https://github.com/Thayaravianello/ThayaraVianello/blob/main/Screenshot_10.png"  />
 </div>
 
 ###
