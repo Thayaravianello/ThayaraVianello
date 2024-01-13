@@ -38,7 +38,7 @@ In addition to my proficiency in the programming languages mentioned above, I ha
 <div>
 <br clear="both">
 
-<img align="right" height="150" src="https://github.com/Thayaravianello/ThayaraVianello/blob/main/8c7sxr.gif"  />
+<img align="right" height="300" src="https://github.com/Thayaravianello/ThayaraVianello/blob/main/8c7th4.gif"  />
 
 
 </div>
