@@ -33,15 +33,10 @@ In addition to my proficiency in the programming languages mentioned above, I ha
 </details>
 
 
+
 ###
 
-<div>
-<br clear="both">
 
-<img align="right" height="300" src="https://github.com/Thayaravianello/ThayaraVianello/blob/main/8c7th4.gif"  />
-
-
-</div>
 
 
 <div align="left">
@@ -73,8 +68,18 @@ In addition to my proficiency in the programming languages mentioned above, I ha
 </div>
 
 ###
+###
 
-<br clear="both">
-
+<div align="left">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=317gowiuxt5idwtnx3vavcw3yhzi"  />
+<img align="right" height="250" src="https://github.com/Thayaravianello/ThayaraVianello/blob/main/8c7th4.gif"  />
+</div>
 
 ###
+
+
+
+
+
+
+
