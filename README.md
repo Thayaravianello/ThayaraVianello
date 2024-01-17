@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Thayara.</h2>
+**<h2 align="left"  >Hi 👋! My name is Thayara.</h2>**
 
 ###
 
@@ -6,8 +6,6 @@
 <a href = "https://github.com/Thayaravianello">
 <img  height= "180em"src="https://github-readme-stats.vercel.app/api?username=thayaravianello&show_icons=true&theme=cobalt"/>
 <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=thayaravianello&layout=compact"/>
-
-
 </div>
 
 <br>
@@ -25,19 +23,13 @@ During my time at the university, I had exposure to the C and C++ programming la
 In addition to my proficiency in the programming languages mentioned above, I have experience with Python and a good command of HTML, CSS, as well as some knowledge of JavaScript and TypeScript.
 </details>
 
-
-
 ###
-  
 ###
 <!--- snake --->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
-
-
 
 
 
@@ -72,14 +64,11 @@ In addition to my proficiency in the programming languages mentioned above, I ha
 ###
 ###
 
-<div align="left">
-<img src="https: />
-<img align="right" height="200" src="https://github.com/Thayaravianello/ThayaraVianello/blob/main/Screenshot_10.png"  />
-</div>
-
-###
 
 
+
+
+![Screenshot_10](https://github.com/Thayaravianello/ThayaraVianello/assets/115813996/4c14d36e-76f8-4632-8544-173f0816d270)
 
 
 
