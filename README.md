@@ -1,5 +1,5 @@
 <div align="center" width= "150px" >  
-<img src= "https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+THAYARA+VIANELLO;I'm+34+years+old;I+AM+FROM+GOIÂNIA,+BRAZIL;Be+Welcome!+:%29)](https://git.io/typing-svg"/>
+<img src= "https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+THAYARA+VIANELLO;I'm+34+years+old;I+AM+FROM+GOIÂNIA,+BRAZIL;Be+Welcome!+:%29"/>
    
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=df3292&text=THAYARA%20VIANELLO&animation=blink"/>
 
@@ -18,8 +18,8 @@ In addition to my proficiency in the programming languages mentioned above, I ha
 ###
 ###
 
-  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thayaravianello&show_icons=true&count_private=true&hide_border=true&title_color=c12c6f&icon_color=00bfbf&text_color=111213&bg_color=f77976" alt="Thayara Vianello github stats" /> 
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thayaravianello&layout=compact&hide_border=true&title_color=c12c6f&text_color=111213&bg_color=f77976" />
+  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thayaravianello&show_icons=true&count_private=true&hide_border=true&title_color=22272e&icon_color=22272e&text_color=22272e&bg_color=a056a8" alt="Thayara Vianello github stats" /> 
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thayaravianello&layout=compact&hide_border=true&title_color=22272e&text_color=22272e&bg_color=a056a8" />
   
   <!--- snake --->
 <div align="center">
