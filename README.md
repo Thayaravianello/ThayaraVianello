@@ -32,8 +32,8 @@ In addition to my proficiency in the programming languages mentioned above, I ha
 
 ###
 ###
-<div>
-<img src="https://github-profile-trophy.vercel.app/?username=thayaravianello&column=-1"/>
+<div >
+<img src="https://github-profile-trophy.vercel.app/?username=thayaravianello&theme=dracula" />
 </div>
 
 ###
