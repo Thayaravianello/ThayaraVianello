@@ -1,10 +1,10 @@
 <div align="center" width= "150px" >  
-<img src= "https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+THAYARA+VIANELLO;I'm+34+years+old;I+AM+FROM+GOIÂNIA,+BRAZIL;Be+Welcome!+:%29"/>
    
+<img src= "https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+THAYARA+VIANELLO;I'm+34+years+old;I+AM+FROM+GOIÂNIA,+BRAZIL;Be+Welcome!+:%29"/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=df3292&text=THAYARA%20VIANELLO&animation=blink"/>
 
    <details>
-<summary>👨‍💻 More about me</summary>
+<summary> 👨‍💻 More about me</summary>
 
 My name is Thayara, I am Brazilian, and I have been living in Europe for 8 years, with 5 of those years spent in Germany. I am proficient in Italian, and my native language is Portuguese.
 
@@ -18,33 +18,27 @@ In addition to my proficiency in the programming languages mentioned above, I ha
 ###
 ###
 
-  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thayaravianello&show_icons=true&count_private=true&hide_border=true&title_color=22272e&icon_color=22272e&text_color=22272e&bg_color=a056a8" alt="Thayara Vianello github stats" /> 
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thayaravianello&layout=compact&hide_border=true&title_color=22272e&text_color=22272e&bg_color=a056a8" />
+  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thayaravianello&show_icons=true&count_private=true&hide_border=true&title_color=22272e&icon_color=22272e&text_color=22272e&bg_color=f4acb7" alt="Thayara Vianello github stats" /> 
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thayaravianello&layout=compact&hide_border=true&title_color=22272e&text_color=22272e&bg_color=f4acb7" />
   
   <!--- snake --->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"alt="snake" /></a>
 </div>
 
   <!--- Graphic --->
 <div >
-<img  width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thayaravianello&bg_color=ffab00&color=0c1b33&line=0c1b33&point=ea0c70&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
-</div>
+<img  width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thayaravianello&bg_color=fec5bb&color=0c1b33&line=0c1b33&point=ea0c70&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
 
 ###
 ###
-
-
 <div>
 <img src="https://github-profile-trophy.vercel.app/?username=thayaravianello&column=-1"/>
 </div>
-</div>
 
 ###
 ###
-
-<div align="left">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -62,12 +56,28 @@ In addition to my proficiency in the programming languages mentioned above, I ha
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
 </div>
 
+###
+###
+
 <div >
    <a href="https://instagram.com/criattus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://discord.gg/thayaravianello" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     <a href = "mailto:thayaraferreira@alunos.unicesumar.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/thayaravianello" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+   
+</div>
+
+###
+###
+
+
+
+
+###
+###
+
+
 
 ###
 ###
