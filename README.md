@@ -1,17 +1,20 @@
-**<h2 align="left"  >Hi 👋! My name is Thayara.</h2>**
 
-###
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=df3292&text=THAYARA%20VIANELLO&animation=blink"/>
 
-<div align="center">
-<a href = "https://github.com/Thayaravianello">
-<img  height= "180em"src="https://github-readme-stats.vercel.app/api?username=thayaravianello&show_icons=true&theme=cobalt"/>
-<img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=thayaravianello&layout=compact"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d883ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Thayara+Vianello;I'm+34+years+old;I+am+from+Goiânia,+Brazil;I+study+Software+engineering+;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thayaravianello&show_icons=true&count_private=true&hide_border=true&title_color=c12c6f&icon_color=00bfbf&text_color=111213&bg_color=f77976" alt="Thayara Vianello github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thayaravianello&layout=compact&hide_border=true&title_color=c12c6f&text_color=111213&bg_color=f77976" />
 </div>
 
 <br>
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Thayaravianello&bg_color=ffab00&color=0c1b33&line=0c1b33&point=ea0c70&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <details>
+
+  
 <summary>👨‍💻 More about me</summary>
 
 My name is Thayara, I am Brazilian, and I have been living in Europe for 8 years, with 5 of those years spent in Germany. I am proficient in Italian, and my native language is Portuguese.
@@ -25,6 +28,12 @@ In addition to my proficiency in the programming languages mentioned above, I ha
 
 ###
 ###
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=thayaravianello&theme=onedark)](https://github.com/thayaravianello/github-profile-trophy)
+
+
+
+
 <!--- snake --->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
