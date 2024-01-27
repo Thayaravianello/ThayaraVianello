@@ -1,6 +1,4 @@
 <div align="center" width= "150px" >  
-
-  <!--- Profile --->
 <img src= "https://readme-typing-svg.herokuapp.com/?color=d883ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Thayara+Vianello;I'm+34+years+old;I+am+from+Goiânia,+Brazil;I+study+Software+engineering+;Be+Welcome!+:%29)](https://git.io/typing-svg"/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=df3292&text=THAYARA%20VIANELLO&animation=blink"/>
 
