@@ -6,7 +6,7 @@
 ###
 ###
 
-   <details>
+  <details>
 <summary> 👨‍💻 More about me</summary>
 
 My name is Thayara, I am Brazilian, and I have been living in Europe for 8 years, with 5 of those years spent in Germany. I am proficient in Italian, and my native language is Portuguese.
