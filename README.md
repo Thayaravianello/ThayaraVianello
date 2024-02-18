@@ -24,10 +24,7 @@ In addition to my proficiency in the programming languages mentioned above, I ha
   <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thayaravianello&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=da4167" alt="Thayara Vianello github stats" /> 
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thayaravianello&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=da4167" />
   
-  <!--- snake --->
-<div align="center">
-  <img width="85%" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"alt="snake" /></a>
-</div>
+
 
   <!--- Graphic --->
 <div >
