@@ -83,7 +83,8 @@ In addition to my proficiency in the programming languages mentioned above, I ha
 ###
 
 <div align="center">
-   <img width="85%" src="https://github.com/Thayaravianello/ThayaraVianello/assets/115813996/4c14d36e-76f8-4632-8544-173f0816d270">
+   <img width="85%" src="https://github.com/Thayaravianello/ThayaraVianello/assets/115813996/f12c30a4-6016-43c9-ab68-3b35aaebc050">
+
 </div>
 
 
