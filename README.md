@@ -22,13 +22,13 @@ In addition to my proficiency in the programming languages mentioned above, I ha
 ###
 
   <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thayaravianello&show_icons=true&count_private=true&hide_border=true&title_color=8a33ff&icon_color=ffffff&text_color=ffffff&bg_color=8a33ff" alt="Thayara Vianello github stats" /> 
-  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thayaravianello&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=8a33ff" />
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thayaravianello&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=8a33ff" />
   
 
 
   <!--- Graphic --->
 <div >
-<img  width="83.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thayaravianello&bg_color=8a33ff&color=0c1b33&line=ffffff&point=ea0c70&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
+<img  width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thayaravianello&bg_color=8a33ff&color=0c1b33&line=ffffff&point=ea0c70&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
 
 ###
 ###
