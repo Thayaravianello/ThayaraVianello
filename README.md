@@ -20,10 +20,12 @@ In addition to my proficiency in the programming languages mentioned above, I ha
 
 ###
 ###
-
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thayaravianello&show_icons=true&count_private=true&hide_border=true&title_color=8a33ff&icon_color=ffffff&text_color=ffffff&bg_color=8a33ff" alt="Thayara Vianello github stats"  align="center" /> 
+<div>
+    <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thayaravianello&show_icons=true&count_private=true&hide_border=true&title_color=8a33ff&icon_color=ffffff&text_color=ffffff&bg_color=8a33ff" alt="Thayara Vianello github stats"  align="center" /> 
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thayaravianello&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=8a33ff" align="center"  />
   
+</div>
+ 
 
 
   <!--- Graphic --->
