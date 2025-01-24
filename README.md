@@ -1,6 +1,6 @@
 <div align="center" width= "100px" >  
    
-<img src= "https://readme-typing-svg.herokuapp.com/?color=8a33ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+THAYARA+VIANELLO;I'm+34+years+old;I+AM+FROM+GOIÂNIA,+BRAZIL;Be+Welcome!+:%29"/>
+<img src= "https://readme-typing-svg.herokuapp.com/?color=8a33ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+THAYARA+VIANELLO;I'm+35+years+old;I+AM+FROM+GOIÂNIA,+BRAZIL;Be+Welcome!+:%29"/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=100&color=8a33ff&text=THAYARA%20VIANELLO&animation=blink"/>
 
 ###
