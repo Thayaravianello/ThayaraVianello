@@ -28,7 +28,7 @@ In addition to my proficiency in the programming languages mentioned above, I ha
 
   <!--- Graphic --->
 <div >
-<img  width="81.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thayaravianello&bg_color=8a33ff&color=0c1b33&line=ffffff&point=ea0c70&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
+<img  width="82%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thayaravianello&bg_color=8a33ff&color=0c1b33&line=ffffff&point=ea0c70&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
 
 ###
 ###
