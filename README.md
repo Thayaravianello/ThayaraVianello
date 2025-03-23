@@ -6,14 +6,12 @@
 ###
 ###
 
-  <details>
-
 
 **Thayara Vianello**  
 From: Brazil  
 Lives in: Germany  
 Speaks: Portuguese, Italian,  Intermediate English, Intermediate Spanish and  Intermediate German
-</details>
+
 
 ###
 ###
