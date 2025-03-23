@@ -7,9 +7,7 @@
 ###
 
   <details>
-<summary> 👨‍💻 More about me</summary>
 
-Aqui está o texto corrigido:  
 
 **Thayara Vianello**  
 From: Brazil  
