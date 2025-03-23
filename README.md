@@ -9,13 +9,12 @@
   <details>
 <summary> 👨‍💻 More about me</summary>
 
-My name is Thayara, I am Brazilian, and I have been living in Europe for 8 years, with 5 of those years spent in Germany. I am proficient in Italian, and my native language is Portuguese.
+Aqui está o texto corrigido:  
 
-Currently, I am studying English and German at an intermediate level. I am enrolled in the Software Engineering program at the university and am currently in the 4th semester.
-
-During my time at the university, I had exposure to the C and C++ programming languages, and currently, I am studying C#. My dream is to have the opportunity to secure a position where I can continue to learn and grow. I am an enthusiastic student who loves acquiring new knowledge.
-
-In addition to my proficiency in the programming languages mentioned above, I have experience with Python and a good command of HTML, CSS, as well as some knowledge of JavaScript and TypeScript.
+**Thayara Vianello**  
+From: Brazil  
+Lives in: Germany  
+Speaks: Portuguese, Italian,  Intermediate English, Intermediate Spanish and  Intermediate German
 </details>
 
 ###
